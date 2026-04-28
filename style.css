@@ -18,9 +18,10 @@ header {
     text-align: center;
 }
 
-h1 {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
+.container {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
 }
 
 nav {
